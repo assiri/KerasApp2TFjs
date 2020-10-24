@@ -1,0 +1,4 @@
+# tensorflowjs_converter --input_format keras --output_format=tfjs_graph_model mobilemodel.h5 modeljs/mobile/
+
+# tensorflowjs_converter --input_format keras --output_format=tfjs_graph_model vgg16mode.h5 modeljs/vgg16/
+
